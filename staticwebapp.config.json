@@ -1,0 +1,13 @@
+{
+  "routes": [
+    {
+      "route": "/profile",
+      "methods": [
+        "post"
+      ],
+      "allowedRoles": [
+        "admin"
+      ]
+    }
+  ]
+}
